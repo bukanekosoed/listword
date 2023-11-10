@@ -1,0 +1,6 @@
+pymongo
+requests
+bs4
+python-dotenv
+flask
+urllib3<2.0
